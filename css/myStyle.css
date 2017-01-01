@@ -1,0 +1,9 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url("../images/main_bg.jpg");
+	font-family:calibri;
+	color:#909090;
+	background-repeat: no-repeat;
+	background-size: 1366px auto;
+}
